@@ -80,7 +80,7 @@ npm run dev
 
 Open `http://localhost:5173` in your browser to view the project.
 
-Credit: JSM 
+### Credit: JSM 
 ---
 
 ## 🕸️ Snippets
