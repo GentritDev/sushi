@@ -95,7 +95,7 @@ Open `http://localhost:5173` in your browser to view the project.
 ## 🔗 Links
 
 * **Repository**: [https://github.com/GentritDev/sushi](https://github.com/GentritDev/sushi)
-* **Live Demo**: [https://sushi-moder.netlify.app](https://sushi-moder.netlify.app)
+* **Live Demo**: [https://sushi-moder.netlify.app](https://sushi-modern.netlify.app)
 
 ---
 
