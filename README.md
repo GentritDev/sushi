@@ -8,6 +8,7 @@
 * 🔋 [Features](#features)
 * 🤸 [Quick Start](#quick-start)
 * 🕸️ [Snippets](#snippets)
+* 🔗 [Links](#links)
 
 
 ---
